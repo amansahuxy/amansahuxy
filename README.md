@@ -65,4 +65,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<!-- GitHub stats cards: stats and top languages -->
+
+<p align="left">
+  <a href="https://github.com/amansahuxy">
+    <img src="https://github-readme-stats.vercel.app/api?username=amansahuxy&show_icons=true&theme=radical" alt="Aman's GitHub stats" />
+  </a>
+  <a href="https://github.com/amansahuxy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansahuxy&layout=compact&theme=radical" alt="Aman's top languages" />
+  </a>
+</p>
+
+---
+
 ⭐ "Learning by building projects every day."

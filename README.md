@@ -2,7 +2,7 @@
 
 ### 💻 CSE Student | Aspiring Full Stack Developer
 
-🎓 B.Tech Computer Science & Engineering
+🎓 B.Tech Computer Science & Engineering  
 🏫 Veer Bahadur Singh Purvanchal University, Jaunpur, Uttar Pradesh
 
 ---
@@ -11,12 +11,12 @@
 
 I'm a Computer Science student passionate about building practical projects and continuously improving my programming skills.
 
-* 🌱 Currently learning **Backend Development with MERN Stack**
-* ☕ Learning **Core Java & DSA**
-* 💻 Building projects with **HTML, CSS & JavaScript**
-* 🔧 Improving my **Git & GitHub** workflow
-* 🎯 Goal: Become a **Full Stack Developer**
-* 🚀 Interested in building real-world applications
+- 🌱 Currently learning **Backend Development with MERN Stack**
+- ☕ Learning **Core Java & DSA**
+- 💻 Building projects with **HTML, CSS & JavaScript**
+- 🔧 Improving my **Git & GitHub** workflow
+- 🎯 Goal: Become a **Full Stack Developer**
+- 🚀 Interested in building real-world applications
 
 ---
 
@@ -50,23 +50,23 @@ I'm a Computer Science student passionate about building practical projects and 
 
 ## 📚 Currently Learning
 
-* 🌐 MERN Stack Development
-* 🧠 Data Structures & Algorithms
-* ☕ Core Java
-* 🔧 Git & GitHub
-* ⚙️ Backend Development
+- 🌐 MERN Stack Development
+- 🧠 Data Structures & Algorithms
+- ☕ Core Java
+- 🔧 Git & GitHub
+- ⚙️ Backend Development
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project             | Description                                   |
-| ------------------- | --------------------------------------------- |
-| 🌦️ Weather App     | Weather application using API integration     |
-| 🧮 Calculator App   | Simple calculator built with JavaScript       |
-| 🌙 Dark Mode Toggle | Dynamic light/dark theme switcher             |
-| 🔢 Counter App      | JavaScript counter with interactive controls  |
-| ❓ Quiz App          | Interactive quiz application using JavaScript |
+| Project | Description |
+| --- | --- |
+| 🌦️ Weather App | Weather application using API integration |
+| 🧮 Calculator App | Simple calculator built with JavaScript |
+| 🌙 Dark Mode Toggle | Dynamic light/dark theme switcher |
+| 🔢 Counter App | JavaScript counter with interactive controls |
+| ❓ Quiz App | Interactive quiz application using JavaScript |
 
 > 🚧 More projects coming soon...
 
@@ -102,13 +102,13 @@ I'm a Computer Science student passionate about building practical projects and 
 
 ## 🎯 2026 Goals
 
-* [ ] Complete MERN Stack
-* [ ] Build 20+ Projects
-* [ ] Strengthen DSA in Java
-* [ ] Build Full Stack Applications
-* [ ] Contribute to Open Source
-* [ ] Participate in Hackathons
-* [ ] Improve Backend Development
+- [ ] Complete MERN Stack
+- [ ] Build 20+ Projects
+- [ ] Strengthen DSA in Java
+- [ ] Build Full Stack Applications
+- [ ] Contribute to Open Source
+- [ ] Participate in Hackathons
+- [ ] Improve Backend Development
 
 ---
 
@@ -123,13 +123,15 @@ I'm a Computer Science student passionate about building practical projects and 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:amansahuxy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://github.com/amansahuxy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:amansahuxy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/amansahuxy">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---

@@ -75,11 +75,11 @@ I'm a Computer Science student passionate about building practical projects and 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amansahuxy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=amansahuxy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansahuxy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amansahuxy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -92,13 +92,6 @@ I'm a Computer Science student passionate about building practical projects and 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amansahuxy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
 
 ## 🎯 2026 Goals
 

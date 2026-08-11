@@ -67,9 +67,10 @@
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amansahuxy&show_icons=true&theme=radical)
-
-![Aman's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amansahuxy&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amansahuxy&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansahuxy&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
